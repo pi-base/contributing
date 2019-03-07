@@ -1,6 +1,11 @@
 # contributing
 README for contributors/reviewers
 
+## Conventions
+
+*See [CONVENTIONS.md](CONVENTIONS.md) for information for our conventions
+pertaining to terminology, notation, etc.*
+
 ## Reviewer workflow
 
 - Contributions are received via pull requests on the GitHub data repo.
