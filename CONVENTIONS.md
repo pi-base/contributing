@@ -8,6 +8,7 @@ We adhere to the following conventions:
 - For the separation axioms, `T_n \Rightarrow T_m` whenever `n\geq m`.
   - For example, on π-Base "regular" is defined to assert that points and closed sets can be separated, while 
     `T_3` is defined to be both regular and `T_0`. However, some authors swap these.
+  - See e.g. <https://en.wikipedia.org/wiki/Separation_axiom#Main_definitions> for more information.
 - If a property is "locally P", then that means that every point in the space has a neighborhood base
   satisfying P for every member of the base.
   - On the other hand, some authors define "locally" to mean there is a single neighborhood satisfying P
